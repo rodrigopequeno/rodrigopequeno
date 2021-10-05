@@ -13,7 +13,7 @@
  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student developer.<br/>I specialize in Mobile-Development with Flutter.<br></p>
+<p align="center">I am a Developer Mobile Flutter.<br/>And I'm studying Computer Science<br></p>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rodrigopequeno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="45" width="170" ></a></a></p><br><br>
 
